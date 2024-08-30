@@ -3,7 +3,7 @@ Hi, I’m Rahul Boby
 
 Skills: Java, Python, C
 
-Currently Mastering: Pandas
+Currently Mastering: Pandas, Data structures in C
 
 🚀 Currently Learning: Data structures and analytics
 
