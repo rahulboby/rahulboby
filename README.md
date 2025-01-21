@@ -1,11 +1,11 @@
 Hi, I’m Rahul Boby
 👨‍💻 BTech in AI and Data Science
 
-Skills: Java, Python, C
+Skills: Java, Pandas, Python, C, Seaborn
 
-Currently Mastering: Pandas, Data structures in C
+Currently Mastering: SQL
 
-🚀 Currently Learning: Data structures and analytics
+🚀 Currently Learning: Data mining, DBMS
 
 📫 Contact: rahulbobyrb6@gmail.com
 
