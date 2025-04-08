@@ -1,8 +1,12 @@
 Hi, I’m Rahul Boby
+
 👨‍💻 BTech in AI and Data Science
 
+
 **SKILLS**
+
 Machine Learning, Data Mining, Predictive Modelling, Visualization, Database Management, Front-End Web development, App development
+
 Languages & Libraries: Java, Pandas, Python, C, Seaborn
 
 
